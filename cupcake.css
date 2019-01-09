@@ -1,0 +1,23 @@
+body{
+  text-align: center;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLdXiffMuB0_oIRm1wjQl_0a_gB5JSF3_hvvrBDo3Od1o7oexZkA");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  font-weight: bold;
+}
+
+ul{
+  list-style-type: none;
+}
+
+a.best{
+  color: green;
+}
